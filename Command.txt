@@ -1,0 +1,12 @@
+mkdir
+tab auto complete
+ls
+ls -la
+cd
+pwd
+clear
+cd ~
+cat<file name> ( to see whats there inside from terminal )
+git config user.name "someone"
+git config user.email"someone@something.com"
+
